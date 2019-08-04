@@ -1,6 +1,11 @@
 >flutter create first_app
 
-vscode
+°²×°intl
+https://pub.dev/packages/intl#-installing-tab-
+intl
+
+
+vscode¿ì½Ý¼ü
 st
 
-66
+131
