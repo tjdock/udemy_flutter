@@ -1,11 +1,15 @@
->flutter create first_app
+>flutter create PROJECT_NAME
 
 °²×°intl
 https://pub.dev/packages/intl#-installing-tab-
 intl
 
 
+>fluttre packages get
+>flutter clean
+>flutter build ios
+
+
 vscode¿ì½Ý¼ü
 st
 
-138
